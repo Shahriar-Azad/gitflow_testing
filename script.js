@@ -7,8 +7,16 @@
 
 
 
-function substract(a,b){
-    return a - b;
+// function substract(a,b){
+//     return a - b;
+// }
+
+// console.log(substract(5,2))
+
+
+
+function helloWorld(name){
+    return name;
 }
 
-console.log(substract(5,2))
+console.log(helloWorld("hello"));
