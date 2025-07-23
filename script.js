@@ -15,8 +15,16 @@
 
 
 
-function helloWorld(name){
-    return name;
+// function helloWorld(name){
+//     return name;
+// }
+
+// console.log(helloWorld("hello"));
+
+
+
+function evenOrOdd(num){
+    return num % 2 == 0 ? "true" : "false";
 }
 
-console.log(helloWorld("hello"));
+console.log(evenOrOdd(10));
