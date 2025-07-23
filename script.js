@@ -23,8 +23,11 @@
 
 
 
-function evenOrOdd(num){
-    return num % 2 == 0 ? "true" : "false";
-}
+// function evenOrOdd(num){
+//     return num % 2 == 0 ? "true" : "false";
+// }
 
-console.log(evenOrOdd(10));
+// console.log(evenOrOdd(10));
+
+
+
