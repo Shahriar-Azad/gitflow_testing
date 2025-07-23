@@ -7,8 +7,18 @@
 
 
 
-function substract(a,b){
-    return a - b;
+// function substract(a,b){
+//     return a - b;
+// }
+
+// console.log(substract(5,2))
+
+
+
+function divide(a,b){
+
+    return (a/b)
 }
 
-console.log(substract(5,2))
+
+console.log(divide(10,3))
